@@ -59,7 +59,6 @@ Browse and search for movies and videos.
 
 Stream content in high-definition.
 
-Create and manage watchlists (optional).
 
 Get personalized video recommendations.
 
@@ -71,6 +70,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 Questions or feedback? Reach out at:
-youremail@example.com
+martdahao@gmail.com
 
 <div align="center"> <sub>Made with ❤️ by YourName</sub> </div> ```
